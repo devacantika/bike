@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Sidebar gambar dan judul
-st.sidebar.image("download.png", use_column_width=True)
+st.sidebar.image("dataset/download.png", use_column_width=True)
 st.sidebar.title("Bike Sharing Dashboard")
 st.sidebar.markdown("### Analisis Penggunaan Sepeda")
 

@@ -17,6 +17,7 @@ Hope this help u 🚴‍♂️
 ![Bike Sharing]
 
 A **Streamlit** dashboard for analyzing bike-sharing usage data, including the effect of weather, seasonal patterns, and user types (casual vs registered).
+Streamlit can be accses in here : https://dpaqkhdzxc2ez2ryk5envv.streamlit.app/ 
 
 ## Table of Contents
 - [Introduction](#introduction)

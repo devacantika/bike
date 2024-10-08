@@ -8,9 +8,9 @@ st.sidebar.image("dashboardProject/download.png", use_column_width=True)
 st.sidebar.title("Bike Sharing Dashboard")
 st.sidebar.markdown("### Analisis Penggunaan Sepeda")
 
-# Membaca data CSV yang sudah dibersihkan
-day_data = pd.read_csv('cleaned_bike_days.csv')
-hour_data = pd.read_csv('cleaned_bike_hour.csv')
+# Membaca data CSV day dan hour
+day_data = pd.read_csv('day.csv')
+hour_data = pd.read_csv('hour.csv')
 
 # Ubah kolom 'dteday' ke format tanggal
 day_data['dteday'] = pd.to_datetime(day_data['dteday'])

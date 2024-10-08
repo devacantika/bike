@@ -25,7 +25,6 @@ A **Streamlit** dashboard for analyzing bike-sharing usage data, including the e
 - [Usage](#usage)
 - [Data](#data)
 - [Visualization](#visualization)
-- [License](#license)
 
 ## Introduction
 

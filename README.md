@@ -14,7 +14,7 @@ events in the city could be detected via monitoring these data.
 
 Hope this help u 🚴‍♂️
 
-![Bike Sharing](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/White_Bicycle.jpg/800px-White_Bicycle.jpg)
+![Bike Sharing]
 
 A **Streamlit** dashboard for analyzing bike-sharing usage data, including the effect of weather, seasonal patterns, and user types (casual vs registered).
 
@@ -100,7 +100,3 @@ This dashboard provides the following key visualizations:
 - **Hourly Usage Trends**: A line chart to highlight peak hours for bike-sharing services.
 - **User Type Comparison**: Bar chart comparing the average number of casual vs registered users.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```

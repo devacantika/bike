@@ -9,8 +9,8 @@ st.sidebar.title("Bike Sharing Dashboard")
 st.sidebar.markdown("### Analisis Penggunaan Sepeda")
 
 # Membaca data CSV day dan hour
-day_data = pd.read_csv('day.csv')
-hour_data = pd.read_csv('hour.csv')
+day_data = pd.read_csv("https://raw.githubusercontent.com/devacantika/bike/refs/heads/main/dataset/day.csv")
+hour_data = pd.read_csv("https://raw.githubusercontent.com/devacantika/bike/refs/heads/main/dataset/hour.csv")
 
 # Ubah kolom 'dteday' ke format tanggal
 day_data['dteday'] = pd.to_datetime(day_data['dteday'])
